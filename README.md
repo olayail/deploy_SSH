@@ -27,5 +27,5 @@ Pull the latest version of the project
 Place the greeting file (Saludo_andres.txt) on the server
 
 ```bash
-ssh -i pemSMacServerEstudiantes ndgserver@191.89.129.146
+ssh -i pemSMacServerEstudiantes ndgserver@201.190.115.29
 
